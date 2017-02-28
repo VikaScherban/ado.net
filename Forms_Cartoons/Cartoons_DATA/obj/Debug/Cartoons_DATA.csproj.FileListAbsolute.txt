@@ -1,0 +1,29 @@
+C:\Users\Виктория\Documents\Visual Studio 2012\Projects\Forms_Cartoons\Cartoons_DATA\bin\Debug\Cartoons_DATA.dll.config
+C:\Users\Виктория\Documents\Visual Studio 2012\Projects\Forms_Cartoons\Cartoons_DATA\bin\Debug\Cartoons_DATA.dll
+C:\Users\Виктория\Documents\Visual Studio 2012\Projects\Forms_Cartoons\Cartoons_DATA\bin\Debug\Cartoons_DATA.pdb
+C:\Users\Виктория\Documents\Visual Studio 2012\Projects\Forms_Cartoons\Cartoons_DATA\obj\Debug\Cartoons_DATA.csprojResolveAssemblyReference.cache
+C:\Users\Виктория\Documents\Visual Studio 2012\Projects\Forms_Cartoons\Cartoons_DATA\obj\Debug\Cartoons_DATA.dll
+C:\Users\Виктория\Documents\Visual Studio 2012\Projects\Forms_Cartoons\Cartoons_DATA\obj\Debug\Cartoons_DATA.pdb
+C:\Users\User\Documents\РАБОТА_ЛЮДА\Lab_2013_2013_2sem\Щербань_Лаба\Forms_Cartoons\Cartoons_DATA\bin\Debug\Cartoons_DATA.dll.config
+C:\Users\User\Documents\РАБОТА_ЛЮДА\Lab_2013_2013_2sem\Щербань_Лаба\Forms_Cartoons\Cartoons_DATA\bin\Debug\Cartoons_DATA.dll
+C:\Users\User\Documents\РАБОТА_ЛЮДА\Lab_2013_2013_2sem\Щербань_Лаба\Forms_Cartoons\Cartoons_DATA\bin\Debug\Cartoons_DATA.pdb
+C:\Users\User\Documents\РАБОТА_ЛЮДА\Lab_2013_2013_2sem\Щербань_Лаба\Forms_Cartoons\Cartoons_DATA\obj\Debug\Cartoons_DATA.dll
+C:\Users\User\Documents\РАБОТА_ЛЮДА\Lab_2013_2013_2sem\Щербань_Лаба\Forms_Cartoons\Cartoons_DATA\obj\Debug\Cartoons_DATA.pdb
+D:\Исправления\Forms_Cartoons\Cartoons_DATA\bin\Debug\Cartoons_DATA.dll.config
+D:\Исправления\Forms_Cartoons\Cartoons_DATA\bin\Debug\Cartoons_DATA.dll
+D:\Исправления\Forms_Cartoons\Cartoons_DATA\bin\Debug\Cartoons_DATA.pdb
+D:\Исправления\Forms_Cartoons\Cartoons_DATA\obj\Debug\Cartoons_DATA.dll
+D:\Исправления\Forms_Cartoons\Cartoons_DATA\obj\Debug\Cartoons_DATA.pdb
+H:\Исправления\Forms_Cartoons\Cartoons_DATA\bin\Debug\Cartoons_DATA.dll.config
+H:\Исправления\Forms_Cartoons\Cartoons_DATA\bin\Debug\Cartoons_DATA.dll
+H:\Исправления\Forms_Cartoons\Cartoons_DATA\bin\Debug\Cartoons_DATA.pdb
+H:\Исправления\Forms_Cartoons\Cartoons_DATA\obj\Debug\Cartoons_DATA.csprojResolveAssemblyReference.cache
+H:\Исправления\Forms_Cartoons\Cartoons_DATA\obj\Debug\Cartoons_DATA.dll
+H:\Исправления\Forms_Cartoons\Cartoons_DATA\obj\Debug\Cartoons_DATA.pdb
+K:\Исправления\Forms_Cartoons\Cartoons_DATA\bin\Debug\Cartoons_DATA.dll.config
+K:\Исправления\Forms_Cartoons\Cartoons_DATA\bin\Debug\Cartoons_DATA.dll
+K:\Исправления\Forms_Cartoons\Cartoons_DATA\bin\Debug\Cartoons_DATA.pdb
+K:\Исправления\Forms_Cartoons\Cartoons_DATA\obj\Debug\Cartoons_DATA.csprojResolveAssemblyReference.cache
+K:\Исправления\Forms_Cartoons\Cartoons_DATA\obj\Debug\Cartoons_DATA.dll
+K:\Исправления\Forms_Cartoons\Cartoons_DATA\obj\Debug\Cartoons_DATA.pdb
+D:\Исправления\Forms_Cartoons\Cartoons_DATA\obj\Debug\Cartoons_DATA.csprojResolveAssemblyReference.cache

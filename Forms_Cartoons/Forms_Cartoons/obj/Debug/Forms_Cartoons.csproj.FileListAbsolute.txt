@@ -1,0 +1,100 @@
+C:\Users\Виктория\Documents\Visual Studio 2012\Projects\Forms_Cartoons\Forms_Cartoons\bin\Debug\Forms_Cartoons.exe.config
+C:\Users\Виктория\Documents\Visual Studio 2012\Projects\Forms_Cartoons\Forms_Cartoons\bin\Debug\Forms_Cartoons.exe
+C:\Users\Виктория\Documents\Visual Studio 2012\Projects\Forms_Cartoons\Forms_Cartoons\bin\Debug\Forms_Cartoons.pdb
+C:\Users\Виктория\Documents\Visual Studio 2012\Projects\Forms_Cartoons\Forms_Cartoons\obj\Debug\Forms_Cartoons.csprojResolveAssemblyReference.cache
+C:\Users\Виктория\Documents\Visual Studio 2012\Projects\Forms_Cartoons\Forms_Cartoons\obj\Debug\Forms_Cartoons.Properties.Resources.resources
+C:\Users\Виктория\Documents\Visual Studio 2012\Projects\Forms_Cartoons\Forms_Cartoons\obj\Debug\Forms_Cartoons.csproj.GenerateResource.Cache
+C:\Users\Виктория\Documents\Visual Studio 2012\Projects\Forms_Cartoons\Forms_Cartoons\obj\Debug\Forms_Cartoons.exe
+C:\Users\Виктория\Documents\Visual Studio 2012\Projects\Forms_Cartoons\Forms_Cartoons\obj\Debug\Forms_Cartoons.pdb
+C:\Users\Виктория\Documents\Visual Studio 2012\Projects\Forms_Cartoons\Forms_Cartoons\obj\Debug\Forms_Cartoons.Form_Cartoon.resources
+C:\Users\Виктория\Documents\Visual Studio 2012\Projects\Forms_Cartoons\Forms_Cartoons\bin\Debug\Cartoons_DATA.dll
+C:\Users\Виктория\Documents\Visual Studio 2012\Projects\Forms_Cartoons\Forms_Cartoons\bin\Debug\Cartoons_DATA.pdb
+C:\Users\Виктория\Documents\Visual Studio 2012\Projects\Forms_Cartoons\Forms_Cartoons\bin\Debug\Microsoft.Expression.DesignHost.dll
+C:\Users\Виктория\Documents\Visual Studio 2012\Projects\Forms_Cartoons\Forms_Cartoons\bin\Debug\Microsoft.Expression.Utility.dll
+C:\Users\Виктория\Documents\Visual Studio 2012\Projects\Forms_Cartoons\Forms_Cartoons\bin\Debug\ru\Microsoft.Expression.DesignHost.resources.dll
+C:\Users\Виктория\Documents\Visual Studio 2012\Projects\Forms_Cartoons\Forms_Cartoons\bin\Debug\ru\Microsoft.Expression.Utility.resources.dll
+C:\Users\Виктория\Documents\Visual Studio 2012\Projects\Forms_Cartoons\Forms_Cartoons\obj\Debug\Forms_Cartoons.FrmSearch.resources
+C:\Users\User\Documents\РАБОТА_ЛЮДА\Lab_2013_2013_2sem\Щербань_Лаба\Forms_Cartoons\Forms_Cartoons\bin\Debug\Forms_Cartoons.exe.config
+C:\Users\User\Documents\РАБОТА_ЛЮДА\Lab_2013_2013_2sem\Щербань_Лаба\Forms_Cartoons\Forms_Cartoons\obj\Debug\Forms_Cartoons.pdb
+C:\Users\User\Documents\РАБОТА_ЛЮДА\Lab_2013_2013_2sem\Щербань_Лаба\Forms_Cartoons\Forms_Cartoons\obj\Debug\Forms_Cartoons.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\РАБОТА_ЛЮДА\Lab_2013_2013_2sem\Щербань_Лаба\Forms_Cartoons\Forms_Cartoons\obj\Debug\Forms_Cartoons.Form_Cartoon.resources
+C:\Users\User\Documents\РАБОТА_ЛЮДА\Lab_2013_2013_2sem\Щербань_Лаба\Forms_Cartoons\Forms_Cartoons\obj\Debug\Forms_Cartoons.FrmSearch.resources
+C:\Users\User\Documents\РАБОТА_ЛЮДА\Lab_2013_2013_2sem\Щербань_Лаба\Forms_Cartoons\Forms_Cartoons\obj\Debug\Forms_Cartoons.Properties.Resources.resources
+C:\Users\User\Documents\РАБОТА_ЛЮДА\Lab_2013_2013_2sem\Щербань_Лаба\Forms_Cartoons\Forms_Cartoons\obj\Debug\Forms_Cartoons.csproj.GenerateResource.Cache
+C:\Users\User\Documents\РАБОТА_ЛЮДА\Lab_2013_2013_2sem\Щербань_Лаба\Forms_Cartoons\Forms_Cartoons\bin\Debug\Forms_Cartoons.exe
+C:\Users\User\Documents\РАБОТА_ЛЮДА\Lab_2013_2013_2sem\Щербань_Лаба\Forms_Cartoons\Forms_Cartoons\bin\Debug\Forms_Cartoons.pdb
+C:\Users\User\Documents\РАБОТА_ЛЮДА\Lab_2013_2013_2sem\Щербань_Лаба\Forms_Cartoons\Forms_Cartoons\bin\Debug\Cartoons_DATA.dll
+C:\Users\User\Documents\РАБОТА_ЛЮДА\Lab_2013_2013_2sem\Щербань_Лаба\Forms_Cartoons\Forms_Cartoons\bin\Debug\Microsoft.Expression.DesignHost.dll
+C:\Users\User\Documents\РАБОТА_ЛЮДА\Lab_2013_2013_2sem\Щербань_Лаба\Forms_Cartoons\Forms_Cartoons\bin\Debug\Microsoft.Expression.Utility.dll
+C:\Users\User\Documents\РАБОТА_ЛЮДА\Lab_2013_2013_2sem\Щербань_Лаба\Forms_Cartoons\Forms_Cartoons\bin\Debug\Cartoons_DATA.pdb
+C:\Users\User\Documents\РАБОТА_ЛЮДА\Lab_2013_2013_2sem\Щербань_Лаба\Forms_Cartoons\Forms_Cartoons\bin\Debug\en\Microsoft.Expression.DesignHost.resources.dll
+C:\Users\User\Documents\РАБОТА_ЛЮДА\Lab_2013_2013_2sem\Щербань_Лаба\Forms_Cartoons\Forms_Cartoons\bin\Debug\en\Microsoft.Expression.Utility.resources.dll
+C:\Users\User\Documents\РАБОТА_ЛЮДА\Lab_2013_2013_2sem\Щербань_Лаба\Forms_Cartoons\Forms_Cartoons\obj\Debug\Forms_Cartoons.exe
+D:\Исправления\Forms_Cartoons\Forms_Cartoons\bin\Debug\Forms_Cartoons.exe.config
+D:\Исправления\Forms_Cartoons\Forms_Cartoons\obj\Debug\Forms_Cartoons.exe
+D:\Исправления\Forms_Cartoons\Forms_Cartoons\obj\Debug\Forms_Cartoons.pdb
+D:\Исправления\Forms_Cartoons\Forms_Cartoons\bin\Debug\Forms_Cartoons.exe
+D:\Исправления\Forms_Cartoons\Forms_Cartoons\bin\Debug\Forms_Cartoons.pdb
+D:\Исправления\Forms_Cartoons\Forms_Cartoons\bin\Debug\Cartoons_DATA.dll
+D:\Исправления\Forms_Cartoons\Forms_Cartoons\bin\Debug\Microsoft.Expression.DesignHost.dll
+D:\Исправления\Forms_Cartoons\Forms_Cartoons\bin\Debug\Microsoft.Expression.Utility.dll
+D:\Исправления\Forms_Cartoons\Forms_Cartoons\bin\Debug\Cartoons_DATA.pdb
+D:\Исправления\Forms_Cartoons\Forms_Cartoons\bin\Debug\ru\Microsoft.Expression.DesignHost.resources.dll
+D:\Исправления\Forms_Cartoons\Forms_Cartoons\bin\Debug\ru\Microsoft.Expression.Utility.resources.dll
+D:\Исправления\Forms_Cartoons\Forms_Cartoons\obj\Debug\Forms_Cartoons.csprojResolveAssemblyReference.cache
+D:\Исправления\Forms_Cartoons\Forms_Cartoons\obj\Debug\Forms_Cartoons.Form_Cartoon.resources
+D:\Исправления\Forms_Cartoons\Forms_Cartoons\obj\Debug\Forms_Cartoons.Properties.Resources.resources
+D:\Исправления\Forms_Cartoons\Forms_Cartoons\obj\Debug\Forms_Cartoons.csproj.GenerateResource.Cache
+H:\Исправления\Forms_Cartoons\Forms_Cartoons\bin\Debug\Forms_Cartoons.exe.config
+H:\Исправления\Forms_Cartoons\Forms_Cartoons\obj\Debug\Forms_Cartoons.exe
+H:\Исправления\Forms_Cartoons\Forms_Cartoons\obj\Debug\Forms_Cartoons.pdb
+H:\Исправления\Forms_Cartoons\Forms_Cartoons\obj\Debug\Forms_Cartoons.csprojResolveAssemblyReference.cache
+H:\Исправления\Forms_Cartoons\Forms_Cartoons\obj\Debug\Forms_Cartoons.Form_Cartoon.resources
+H:\Исправления\Forms_Cartoons\Forms_Cartoons\obj\Debug\Forms_Cartoons.Properties.Resources.resources
+H:\Исправления\Forms_Cartoons\Forms_Cartoons\obj\Debug\Forms_Cartoons.csproj.GenerateResource.Cache
+H:\Исправления\Forms_Cartoons\Forms_Cartoons\bin\Debug\Forms_Cartoons.exe
+H:\Исправления\Forms_Cartoons\Forms_Cartoons\bin\Debug\Forms_Cartoons.pdb
+H:\Исправления\Forms_Cartoons\Forms_Cartoons\bin\Debug\Cartoons_DATA.dll
+H:\Исправления\Forms_Cartoons\Forms_Cartoons\bin\Debug\Microsoft.Expression.DesignHost.dll
+H:\Исправления\Forms_Cartoons\Forms_Cartoons\bin\Debug\Microsoft.Expression.Utility.dll
+H:\Исправления\Forms_Cartoons\Forms_Cartoons\bin\Debug\Cartoons_DATA.pdb
+H:\Исправления\Forms_Cartoons\Forms_Cartoons\bin\Debug\ru\Microsoft.Expression.DesignHost.resources.dll
+H:\Исправления\Forms_Cartoons\Forms_Cartoons\bin\Debug\ru\Microsoft.Expression.Utility.resources.dll
+H:\Исправления\Forms_Cartoons\Forms_Cartoons\obj\Debug\Forms_Cartoons.FrmAddDiractors.resources
+H:\Исправления\Forms_Cartoons\Forms_Cartoons\obj\Debug\Forms_Cartoons.FrmAddGenre.resources
+K:\Исправления\Forms_Cartoons\Forms_Cartoons\bin\Debug\Forms_Cartoons.exe.config
+K:\Исправления\Forms_Cartoons\Forms_Cartoons\obj\Debug\Forms_Cartoons.exe
+K:\Исправления\Forms_Cartoons\Forms_Cartoons\obj\Debug\Forms_Cartoons.pdb
+K:\Исправления\Forms_Cartoons\Forms_Cartoons\bin\Debug\Forms_Cartoons.exe
+K:\Исправления\Forms_Cartoons\Forms_Cartoons\bin\Debug\Forms_Cartoons.pdb
+K:\Исправления\Forms_Cartoons\Forms_Cartoons\bin\Debug\Cartoons_DATA.dll
+K:\Исправления\Forms_Cartoons\Forms_Cartoons\bin\Debug\Microsoft.Expression.DesignHost.dll
+K:\Исправления\Forms_Cartoons\Forms_Cartoons\bin\Debug\Microsoft.Expression.Utility.dll
+K:\Исправления\Forms_Cartoons\Forms_Cartoons\bin\Debug\Cartoons_DATA.pdb
+K:\Исправления\Forms_Cartoons\Forms_Cartoons\bin\Debug\ru\Microsoft.Expression.DesignHost.resources.dll
+K:\Исправления\Forms_Cartoons\Forms_Cartoons\bin\Debug\ru\Microsoft.Expression.Utility.resources.dll
+K:\Исправления\Forms_Cartoons\Forms_Cartoons\obj\Debug\Forms_Cartoons.csprojResolveAssemblyReference.cache
+K:\Исправления\Forms_Cartoons\Forms_Cartoons\obj\Debug\Forms_Cartoons.FrmAddDiractors.resources
+K:\Исправления\Forms_Cartoons\Forms_Cartoons\obj\Debug\Forms_Cartoons.FrmAddGenre.resources
+K:\Исправления\Forms_Cartoons\Forms_Cartoons\obj\Debug\Forms_Cartoons.Form_Cartoon.resources
+K:\Исправления\Forms_Cartoons\Forms_Cartoons\obj\Debug\Forms_Cartoons.Properties.Resources.resources
+K:\Исправления\Forms_Cartoons\Forms_Cartoons\obj\Debug\Forms_Cartoons.csproj.GenerateResource.Cache
+D:\Исправления\Forms_Cartoons\Forms_Cartoons\obj\Debug\Forms_Cartoons.FrmAddDiractors.resources
+D:\Исправления\Forms_Cartoons\Forms_Cartoons\obj\Debug\Forms_Cartoons.FrmAddGenre.resources
+C:\Users\Виктория\Documents\Visual Studio 2012\Projects\Forms_Cartoons\Forms_Cartoons\Forms_Cartoons\bin\Debug\Forms_Cartoons.exe.config
+C:\Users\Виктория\Documents\Visual Studio 2012\Projects\Forms_Cartoons\Forms_Cartoons\Forms_Cartoons\obj\Debug\Forms_Cartoons.exe
+C:\Users\Виктория\Documents\Visual Studio 2012\Projects\Forms_Cartoons\Forms_Cartoons\Forms_Cartoons\obj\Debug\Forms_Cartoons.pdb
+C:\Users\Виктория\Documents\Visual Studio 2012\Projects\Forms_Cartoons\Forms_Cartoons\Forms_Cartoons\bin\Debug\Forms_Cartoons.exe
+C:\Users\Виктория\Documents\Visual Studio 2012\Projects\Forms_Cartoons\Forms_Cartoons\Forms_Cartoons\bin\Debug\Forms_Cartoons.pdb
+C:\Users\Виктория\Documents\Visual Studio 2012\Projects\Forms_Cartoons\Forms_Cartoons\Forms_Cartoons\bin\Debug\Cartoons_DATA.dll
+C:\Users\Виктория\Documents\Visual Studio 2012\Projects\Forms_Cartoons\Forms_Cartoons\Forms_Cartoons\bin\Debug\Microsoft.Expression.DesignHost.dll
+C:\Users\Виктория\Documents\Visual Studio 2012\Projects\Forms_Cartoons\Forms_Cartoons\Forms_Cartoons\bin\Debug\Microsoft.Expression.Utility.dll
+C:\Users\Виктория\Documents\Visual Studio 2012\Projects\Forms_Cartoons\Forms_Cartoons\Forms_Cartoons\bin\Debug\Cartoons_DATA.pdb
+C:\Users\Виктория\Documents\Visual Studio 2012\Projects\Forms_Cartoons\Forms_Cartoons\Forms_Cartoons\bin\Debug\ru\Microsoft.Expression.DesignHost.resources.dll
+C:\Users\Виктория\Documents\Visual Studio 2012\Projects\Forms_Cartoons\Forms_Cartoons\Forms_Cartoons\bin\Debug\ru\Microsoft.Expression.Utility.resources.dll
+C:\Users\Виктория\Documents\Visual Studio 2012\Projects\Forms_Cartoons\Forms_Cartoons\Forms_Cartoons\obj\Debug\Forms_Cartoons.csprojResolveAssemblyReference.cache
+C:\Users\Виктория\Documents\Visual Studio 2012\Projects\Forms_Cartoons\Forms_Cartoons\Forms_Cartoons\obj\Debug\Forms_Cartoons.FrmAddDiractors.resources
+C:\Users\Виктория\Documents\Visual Studio 2012\Projects\Forms_Cartoons\Forms_Cartoons\Forms_Cartoons\obj\Debug\Forms_Cartoons.FrmAddGenre.resources
+C:\Users\Виктория\Documents\Visual Studio 2012\Projects\Forms_Cartoons\Forms_Cartoons\Forms_Cartoons\obj\Debug\Forms_Cartoons.Form_Cartoon.resources
+C:\Users\Виктория\Documents\Visual Studio 2012\Projects\Forms_Cartoons\Forms_Cartoons\Forms_Cartoons\obj\Debug\Forms_Cartoons.Properties.Resources.resources
+C:\Users\Виктория\Documents\Visual Studio 2012\Projects\Forms_Cartoons\Forms_Cartoons\Forms_Cartoons\obj\Debug\Forms_Cartoons.csproj.GenerateResource.Cache

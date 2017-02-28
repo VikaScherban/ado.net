@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<useCaseModelRoot xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" xmlns:dm9="http://schemas.microsoft.com/dsltools/SimpleShapesModel" dslVersion="1.0.0.0" Id="05868a1a-db64-4186-bdc2-17151e740353" name="UMLUseCaseDiagram_Cartoons" linkedPackageId="73ccf5d7-1ebb-4aa5-a67c-2c1f3fb15000" xmlns="http://schemas.microsoft.com/dsltools/UseCaseModel">
+  <profileInstances>
+    <packageHasProfileInstances Id="80705fc3-49e7-4e76-a167-f01e491e21ca">
+      <profileInstance Id="51aa6799-5cfd-41e9-8651-539dd9905f99" name="StandardProfileL2">
+        <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+      </profileInstance>
+      <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="1ab2ce82-5247-4349-9fcd-233c2ef1e79d">
+      <profileInstance Id="8bf74f84-3bf3-46ec-a002-d8afa4085137" name="StandardProfileL3">
+        <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+      </profileInstance>
+      <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <useCaseModelRootHasTypes>
+      <actor Id="58b94fec-9402-4430-8d5e-3783adaa213f" name="Actor" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="ee3a7ebe-3171-497d-a9d5-d91221190a65" />
+        <targetEnds>
+          <association Id="449f4b3b-f630-4bca-95e6-b8053a83843e" isDerived="false" sourceEndRoleName="Actor" targetEndRoleName="UseCase1" isLeaf="false" isAbstract="false">
+            <useCaseMoniker Id="84b69bc7-8b27-42e1-b157-dde153a194c9" LastKnownName="Робота з данними(адмін)" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="28c7c14b-bba7-4d53-afcc-2569336e2000" name="Actor" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="a6bebd50-5dc7-486b-9e99-066f8dc9d2b3" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="100037ab-2798-43a0-ae81-d5e1c433a745" name="UseCase1" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="a4545b6a-adfd-4fd8-96f1-7bcb4677c5a1" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="593e02bf-c2e2-4345-9f41-6447ce488c4d" />
+          </association>
+          <association Id="76e6a8c3-6cdd-45de-be92-5bdf62e527ab" isDerived="false" sourceEndRoleName="Actor" targetEndRoleName="Пошук мультфільма" isLeaf="false" isAbstract="false">
+            <useCaseMoniker Id="2bd5ac1b-9111-4dcc-90c8-9367a05efb95" LastKnownName="Пошук мультфільма" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="e7bb100c-cf66-4c6f-924e-c640780bce1d" name="Actor" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="01a73e1d-6200-4b6f-82be-e01f7beaced5" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="60659e8e-e246-40c0-a9a4-5c9827de2590" name="Пошук мультфільма" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="0298dcee-1d16-4ab9-b88e-432bdce296ef" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="72d77ca9-e5a2-4622-9051-9acace4d54e3" />
+          </association>
+        </targetEnds>
+      </actor>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="84b69bc7-8b27-42e1-b157-dde153a194c9" name="Робота з данними(адмін)" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="6148345a-cef1-4527-9548-b7ecb4d25131" />
+        <additions>
+          <include Id="cd84dd28-4509-4fd6-8cf9-70e384593d5f">
+            <useCaseMoniker Id="5812d1f9-cf57-4131-a77f-afba8b3a1119" LastKnownName="Введення логіна і пароля" />
+            <elementDefinition Id="538dde34-613b-44b2-ae53-c2eda3359760" />
+          </include>
+        </additions>
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="5812d1f9-cf57-4131-a77f-afba8b3a1119" name="Введення логіна і пароля" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="b1a91587-6753-48fd-a22f-42ff5349d4db" />
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="9ffc081e-1cbf-4dba-a549-d7aa70bd368f" name="Критерії" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="a8e53056-fdb9-49c2-8a55-059d50d76f3b" />
+        <additions>
+          <include Id="a35b1b56-034e-4834-9add-7d774ba0b792">
+            <useCaseMoniker Id="1edc1322-c57b-453b-ac53-8c45c7d3d995" LastKnownName="Назва мультфільму" />
+            <elementDefinition Id="39bd980f-e2f4-4fcc-aff6-0a6b0941d546" />
+          </include>
+        </additions>
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="8353983e-c51a-4ea1-9616-cd1e6f52642b" name="Країна" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="0eb4b82a-1c61-4b6e-aa8b-814a24b5c304" />
+        <extendedCases>
+          <extend Id="877438d9-5294-452e-825c-b1241c2dfbc7">
+            <useCaseMoniker Id="9ffc081e-1cbf-4dba-a549-d7aa70bd368f" LastKnownName="Критерії" />
+            <elementDefinition Id="07e23b2b-77f4-4996-af3a-c2224cf8baf6" />
+          </extend>
+        </extendedCases>
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="b949f6ed-2573-416c-9046-f00e62cb20d7" name="Жанр" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="5b14ca7b-a30e-4c40-8929-5e0d46cc8985" />
+        <extendedCases>
+          <extend Id="5d7aa761-8614-430f-b938-0f307bf52390">
+            <useCaseMoniker Id="9ffc081e-1cbf-4dba-a549-d7aa70bd368f" LastKnownName="Критерії" />
+            <elementDefinition Id="4498df55-52c8-4576-a8be-e2f136dbb080" />
+          </extend>
+        </extendedCases>
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="67f24a42-d58d-4ee4-bd5c-9de72cd6bfea" name="Рік виходу" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="0530cab5-52f5-454b-9541-98c8fc40ab0f" />
+        <extendedCases>
+          <extend Id="9708ac1d-241a-4b8a-8d55-ff85039e6d17">
+            <useCaseMoniker Id="9ffc081e-1cbf-4dba-a549-d7aa70bd368f" LastKnownName="Критерії" />
+            <elementDefinition Id="51f6eea4-9c19-4e6e-850a-abded1a4c506" />
+          </extend>
+        </extendedCases>
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="1edc1322-c57b-453b-ac53-8c45c7d3d995" name="Назва мультфільму" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="8872169d-48a6-4222-be51-ce97947e394f" />
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="1ab4dbc7-d651-4423-a55b-bb4d272bec39" name="Тривалість" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="51d6b918-ed87-4914-bf29-b54f90ce7da9" />
+        <extendedCases>
+          <extend Id="d3855eec-5166-4d33-a8df-de72e71d2c67">
+            <useCaseMoniker Id="9ffc081e-1cbf-4dba-a549-d7aa70bd368f" LastKnownName="Критерії" />
+            <elementDefinition Id="4c672960-1b24-475a-a579-f6f7a0de8572" />
+          </extend>
+        </extendedCases>
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="c1011d73-675b-439d-9405-2d51cfee9a69" name="Редагування мультфільма" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="1cf7509f-50ca-4732-9436-806c93ef5241" />
+        <extendedCases>
+          <extend Id="4b73abc7-0819-44c2-b8ea-7256c089351b">
+            <useCaseMoniker Id="5812d1f9-cf57-4131-a77f-afba8b3a1119" LastKnownName="Введення логіна і пароля" />
+            <elementDefinition Id="812411b6-e97b-4f02-8bfd-0513ecb0a44d" />
+          </extend>
+        </extendedCases>
+        <additions>
+          <include Id="23a195a9-fe42-4fcb-afd9-66c8290ded78">
+            <useCaseMoniker Id="fd457de3-823f-4c34-8aea-3616b7e615fe" LastKnownName="Пошук" />
+            <elementDefinition Id="0ca9328f-564f-4d0b-a836-21e987518f50" />
+          </include>
+        </additions>
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="fd457de3-823f-4c34-8aea-3616b7e615fe" name="Пошук" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="43be1605-2d8c-4792-9573-4012e0f83398" />
+        <additions>
+          <include Id="bfa60a42-1c1e-4b68-9c7c-daedbc0118a7">
+            <useCaseMoniker Id="27a57b65-00aa-440e-be3a-c81ac106babc" LastKnownName="За критерієм" />
+            <elementDefinition Id="3b52985f-b6b3-44b9-a054-a543ae1814be" />
+          </include>
+        </additions>
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="18ffe3cb-e4ad-4894-b408-7d4f4b8e97c7" name="Подивитися всю інформацію" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="602cf30d-b519-4b27-be17-4589e28d60a7" />
+        <extendedCases>
+          <extend Id="9ceaa559-e742-49e6-9599-c9353420845d">
+            <useCaseMoniker Id="fd457de3-823f-4c34-8aea-3616b7e615fe" LastKnownName="Пошук" />
+            <elementDefinition Id="54db6435-f8c9-4e1f-8913-815875e4e3cb" />
+          </extend>
+        </extendedCases>
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="e12be971-a524-43ec-9956-1c8b7dbbedf6" name="Редагувати" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="116353c7-1150-43c2-b920-cdb32ab2b450" />
+        <extendedCases>
+          <extend Id="86ab77d9-0acd-4eae-a9ee-2bf5f5916101">
+            <useCaseMoniker Id="18ffe3cb-e4ad-4894-b408-7d4f4b8e97c7" LastKnownName="Подивитися всю інформацію" />
+            <elementDefinition Id="19d51c86-aaee-45fc-a906-70472fb9d3cb" />
+          </extend>
+        </extendedCases>
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="2bcdec7b-821c-44a2-a163-0962735d5dbb" name="Видалити" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="65049916-afc0-4a76-be4d-9295e29487a7" />
+        <extendedCases>
+          <extend Id="581d7fe0-95c4-4ba7-8e79-1a8d3c28e40e">
+            <useCaseMoniker Id="18ffe3cb-e4ad-4894-b408-7d4f4b8e97c7" LastKnownName="Подивитися всю інформацію" />
+            <elementDefinition Id="53749322-23e4-4032-9362-d0596f67f94b" />
+          </extend>
+        </extendedCases>
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="3424053f-540b-406b-bac9-013888e29985" name="Елементи" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="0e8311cc-d6c9-4126-a7fb-629836f9b5ba" />
+        <extendedCases>
+          <extend Id="71eede85-0af9-427a-9c95-3332eb0b9b1c">
+            <useCaseMoniker Id="2bcdec7b-821c-44a2-a163-0962735d5dbb" LastKnownName="Видалити" />
+            <elementDefinition Id="9c65468d-1dcc-4c90-b546-a2c05444b8ba" />
+          </extend>
+        </extendedCases>
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="33e479db-8a53-461a-b78b-adb6d94b1532" name="Повне видалення" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="d61769ce-726b-4be0-95d5-1ca2ffbfb55f" />
+        <extendedCases>
+          <extend Id="4b413f70-9e5a-4e95-995d-ac30382b691c">
+            <useCaseMoniker Id="2bcdec7b-821c-44a2-a163-0962735d5dbb" LastKnownName="Видалити" />
+            <elementDefinition Id="2d7952e7-9bab-41e4-8f25-4b65a2414bfc" />
+          </extend>
+        </extendedCases>
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="9892e44f-1e37-41de-ba02-66a5ea75b5a7" name="Рейтинг" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="21449135-32c6-4844-83c0-efd3aa62136b" />
+        <extendedCases>
+          <extend Id="873bd06e-6c88-49c8-bd2f-61022ae687b9">
+            <useCaseMoniker Id="9ffc081e-1cbf-4dba-a549-d7aa70bd368f" LastKnownName="Критерії" />
+            <elementDefinition Id="8603a0b3-220e-4a70-ad0b-f4d0680e8d15" />
+          </extend>
+        </extendedCases>
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="2bd5ac1b-9111-4dcc-90c8-9367a05efb95" name="Пошук мультфільма" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="2334544c-807a-4e22-ad27-050e65ee5e39" />
+        <additions>
+          <include Id="d5d239d3-52a0-4e37-9dad-828be1d13903">
+            <useCaseMoniker Id="27a57b65-00aa-440e-be3a-c81ac106babc" LastKnownName="За критерієм" />
+            <elementDefinition Id="4bb370e1-23bb-42de-ad80-25860189744a" />
+          </include>
+        </additions>
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="27a57b65-00aa-440e-be3a-c81ac106babc" name="За критерієм" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="15051ef9-9eba-49ff-9e71-756d508e1ce3" />
+        <additions>
+          <include Id="d231ba55-dd4b-4d7f-8f98-e99326a5a260">
+            <useCaseMoniker Id="9ffc081e-1cbf-4dba-a549-d7aa70bd368f" LastKnownName="Критерії" />
+            <elementDefinition Id="993fd5ff-7f9d-4400-9dbe-ad9c5264d93b" />
+          </include>
+        </additions>
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="80b3754a-dd59-434d-aa5c-f510d02969a4" name="Додавання нового мультфільму" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="d1847f03-0d59-4c56-8632-f905bb437e91" />
+        <extendedCases>
+          <extend Id="80ddb4de-b05f-463a-b270-27f4aa5ad204">
+            <useCaseMoniker Id="5812d1f9-cf57-4131-a77f-afba8b3a1119" LastKnownName="Введення логіна і пароля" />
+            <elementDefinition Id="b48b7e80-db0e-4b1c-b00d-ee31746562cc" />
+          </extend>
+        </extendedCases>
+        <additions>
+          <include Id="eac17c29-13af-4c03-ab20-d65873c12ba1">
+            <useCaseMoniker Id="9ffc081e-1cbf-4dba-a549-d7aa70bd368f" LastKnownName="Критерії" />
+            <elementDefinition Id="702f83e3-a6e8-4ff2-abfb-2bc795c370ac" />
+          </include>
+        </additions>
+      </useCase>
+    </useCaseModelRootHasTypes>
+  </packagedElements>
+  <package Id="73ccf5d7-1ebb-4aa5-a67c-2c1f3fb15000" name="Cartoons_Diagram">
+    <elementDefinition Id="116acf36-d262-4218-91e1-9f340cfcd585" />
+  </package>
+</useCaseModelRoot>

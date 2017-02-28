@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forms_Cartoons", "Forms_Cartoons\Forms_Cartoons.csproj", "{2AB072EB-F06E-40B4-B227-07DFE0691550}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cartoons_DATA", "Cartoons_DATA\Cartoons_DATA.csproj", "{002CACB7-1189-4295-A8EA-3919E8ABA103}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AB072EB-F06E-40B4-B227-07DFE0691550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AB072EB-F06E-40B4-B227-07DFE0691550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AB072EB-F06E-40B4-B227-07DFE0691550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AB072EB-F06E-40B4-B227-07DFE0691550}.Release|Any CPU.Build.0 = Release|Any CPU
+		{002CACB7-1189-4295-A8EA-3919E8ABA103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{002CACB7-1189-4295-A8EA-3919E8ABA103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{002CACB7-1189-4295-A8EA-3919E8ABA103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{002CACB7-1189-4295-A8EA-3919E8ABA103}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
